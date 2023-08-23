@@ -1,0 +1,5 @@
+mysql_own:
+  host: 192.168.0.109
+  port: 3306
+  user: admin
+  password: Aaron8118!
